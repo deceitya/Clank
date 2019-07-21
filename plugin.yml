@@ -12,8 +12,6 @@ website: https://github.com/deceitya/Clank
 
 depend:
 - EconomyAPI
-loadbefore:
-- EconomyAPI
 
 permissions:
   clankplugin.command.*:
