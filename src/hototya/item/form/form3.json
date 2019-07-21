@@ -1,0 +1,28 @@
+{
+    "type": "custom_form",
+    "title": "Clank >> アイテム削除",
+    "content": [
+        {
+            "type": "label",
+            "text": "削除したいアイテムの各データをそれぞれ入力して下さい。"
+        },
+        {
+            "type": "input",
+            "text": "ID",
+            "placeholder": "ID",
+            "default": "1"
+        },
+        {
+            "type": "input",
+            "text": "データ値",
+            "placeholder": "データ値",
+            "default": "0"
+        },
+        {
+            "type": "input",
+            "text": "個数",
+            "placeholder": "個数",
+            "default": "1"
+        }
+    ]
+}

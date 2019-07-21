@@ -1,0 +1,16 @@
+{
+    "type": "custom_form",
+    "title": "Clank >> 金額設定",
+    "content": [
+        {
+            "type": "label",
+            "text": "変更したい金額の値を入れてください"
+        },
+        {
+            "type": "input",
+            "text": "金額",
+            "placeholder": "金額",
+            "default": "200"
+        }
+    ]
+}
